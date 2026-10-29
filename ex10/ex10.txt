@@ -1,0 +1,106 @@
+================================================
+       WASTE CLASSIFICATION SYSTEM
+================================================
+1. Classify a Waste Item
+2. Display Waste Categories
+3. View Classification History
+4. Show Waste Statistics
+5. Search Waste Items
+6. Classify Multiple Items
+7. Exit
+================================================
+Enter your choice (1-7): 1
+
+--- WASTE CLASSIFICATION ---
+Enter the waste item name: vegetable peels
+
+Classification Result
+---------------------
+Waste Item : Vegetable Peels
+Category   : Biodegradable
+Suggestion : Use a compost bin to produce natural manure.
+Date       : 29-10-2026 17:01:39
+
+================================================
+       WASTE CLASSIFICATION SYSTEM
+================================================
+1. Classify a Waste Item
+2. Display Waste Categories
+3. View Classification History
+4. Show Waste Statistics
+5. Search Waste Items
+6. Classify Multiple Items
+7. Exit
+================================================
+Enter your choice (1-7): 1
+
+--- WASTE CLASSIFICATION ---
+Enter the waste item name: battery
+
+Classification Result
+---------------------
+Waste Item : Battery
+Category   : Hazardous
+Suggestion : Take it to an authorized hazardous waste collection centre.
+Date       : 29-10-2026 17:01:47
+
+================================================
+       WASTE CLASSIFICATION SYSTEM
+================================================
+1. Classify a Waste Item
+2. Display Waste Categories
+3. View Classification History
+4. Show Waste Statistics
+5. Search Waste Items
+6. Classify Multiple Items
+7. Exit
+================================================
+Enter your choice (1-7): 4
+
+--- WASTE STATISTICS ---
+Total Items Classified: 2
+Biodegradable: 1 item(s) - 50.0 %
+Hazardous: 1 item(s) - 50.0 %
+
+================================================
+       WASTE CLASSIFICATION SYSTEM
+================================================
+1. Classify a Waste Item
+2. Display Waste Categories
+3. View Classification History
+4. Show Waste Statistics
+5. Search Waste Items
+6. Classify Multiple Items
+7. Exit
+================================================
+Enter your choice (1-7): 3
+
+--- WASTE CLASSIFICATION HISTORY ---
+
+Record 1
+Item       : Vegetable Peels
+Category   : Biodegradable
+Suggestion : Use a compost bin to produce natural manure.
+Date       : 29-10-2026 17:01:39
+
+Record 2
+Item       : Battery
+Category   : Hazardous
+Suggestion : Take it to an authorized hazardous waste collection centre.
+Date       : 29-10-2026 17:01:47
+
+================================================
+       WASTE CLASSIFICATION SYSTEM
+================================================
+1. Classify a Waste Item
+2. Display Waste Categories
+3. View Classification History
+4. Show Waste Statistics
+5. Search Waste Items
+6. Classify Multiple Items
+7. Exit
+================================================
+Enter your choice (1-7): 7
+
+Thank you for using the system!
+Keep your environment clean and green.
